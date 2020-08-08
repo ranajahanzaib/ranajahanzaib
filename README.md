@@ -1,4 +1,4 @@
-![](img/banner.png)
+![](https://raw.githubusercontent.com/ranajahanzaib/ranajahanzaib/master/img/banner.png)
 
 
 
