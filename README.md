@@ -1,4 +1,4 @@
-![](./img/banner.png)
+![](img/banner.png)
 
 
 
